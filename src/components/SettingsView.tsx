@@ -321,7 +321,7 @@ export const SettingsView: React.FC<SettingsViewProps> = ({
           {/* SECTION 3: Struk Kasir */}
           <div className="space-y-4 pt-4 border-t border-slate-100">
             <h3 className="text-xs font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2 pb-2 border-b border-slate-100">
-              <Receipt className="w-4 h-4 text-blue-600" />
+              
               <span>Tampilan Struk Belanja Kasir</span>
             </h3>
 
