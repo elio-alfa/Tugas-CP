@@ -179,7 +179,7 @@ export const SettingsView: React.FC<SettingsViewProps> = ({
                   {storeName || 'Toko Sembako'}
                 </div>
                 <div className="text-[11px] text-slate-500 font-medium mt-0.5">
-                  {logoUrl ? 'Menggunakan Logo Kustom' : 'Menggunakan Logo Bawaan'}
+                  {logoUrl ? 'Menggunakan Logo Kustom' : 'Logo'}
                 </div>
 
                 {logoUrl && (
