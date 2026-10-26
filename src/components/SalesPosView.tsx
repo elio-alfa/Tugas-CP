@@ -207,7 +207,7 @@ export const SalesPosView: React.FC<SalesPosViewProps> = ({
       <div className="bg-white p-5 rounded-lg border border-slate-200/80 shadow-2xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
           <h2 className="text-base font-bold text-slate-900 tracking-tight flex items-center gap-2">
-            <ShoppingCart className="w-4 h-4 text-slate-700" />
+            
             <span>Kasir Penjualan (Point of Sale)</span>
           </h2>
           <p className="text-xs text-slate-500 mt-0.5">

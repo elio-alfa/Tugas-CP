@@ -255,7 +255,7 @@ export const ProductsView: React.FC<ProductsViewProps> = ({
       <div className="bg-white p-5 rounded-lg border border-slate-200/80 shadow-2xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
           <h2 className="text-base font-bold text-slate-900 tracking-tight flex items-center gap-2">
-            <Package className="w-4 h-4 text-slate-700" />
+            
             <span>Katalog Barang & Master SKU</span>
           </h2>
           <p className="text-xs text-slate-500 mt-1">

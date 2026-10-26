@@ -194,7 +194,7 @@ export const StockInView: React.FC<StockInViewProps> = ({
       <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
           <h2 className="text-lg font-bold text-slate-900 tracking-tight flex items-center gap-2">
-            <ArrowDownLeft className="w-5 h-5 text-blue-600" />
+            
             <span>Transaksi Barang Masuk (Pengadaan Sembako)</span>
           </h2>
           <p className="text-xs text-slate-500 mt-0.5">

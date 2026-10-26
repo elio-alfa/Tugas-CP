@@ -97,7 +97,7 @@ export const CategoriesView: React.FC<CategoriesViewProps> = ({
       <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
           <h2 className="text-lg font-bold text-slate-900 tracking-tight flex items-center gap-2">
-            <Layers className="w-5 h-5 text-indigo-600" />
+            
             <span>Kategori Barang Sembako</span>
           </h2>
           <p className="text-xs text-slate-500 mt-0.5">
